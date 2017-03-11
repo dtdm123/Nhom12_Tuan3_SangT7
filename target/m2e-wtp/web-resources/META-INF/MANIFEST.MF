@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: Nhom12_Tuan3_SangT7
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: CIS
+Implementation-Vendor-Id: HelloWorld
+Build-Jdk: 1.8.0_121
+Implementation-URL: http://projects.spring.io/spring-boot/Nhom12_Tuan3
+ _SangT7/
+Created-By: Maven Integration for Eclipse
+Implementation-Vendor: Pivotal Software, Inc.
+
